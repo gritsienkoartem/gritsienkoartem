@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Artem Gritsienko
 
-<!--
-**gritsienkoartem/gritsienkoartem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at MISIS
 
-Here are some ideas to get you started:
+Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in
+
+- Python
+- AI
+- Backend
+- Cloud
+
+---
+
+## Technologies
+
+Python
+
+FastAPI
+
+PostgreSQL
+
+Docker
+
+Git
+
+Linux
+
+Redis
+
+GitHub Actions
+
+---
+
+## Current goals
+
+- Improve backend skills
+- Learn DevOps
+- Build production-ready applications
+
+---
+
+## Contacts
+
+Telegram
+
+Email
